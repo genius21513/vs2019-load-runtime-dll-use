@@ -1,0 +1,8 @@
+﻿  LoadRuntimeDll.cpp
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LoadRuntimeDll.vcxproj -> E:\GeniusWork\VS\vs2019-load-runtime-dll-use\LoadRuntimeDll\x64\Release\LoadRuntimeDll.exe
+  0 File(s) copied

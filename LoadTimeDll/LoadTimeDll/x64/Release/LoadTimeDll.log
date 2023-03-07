@@ -1,0 +1,9 @@
+﻿  LoadTimeDll.cpp
+  Generating code
+  0 of 1 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LoadTimeDll.vcxproj -> E:\GeniusWork\VS\vs2019-load-runtime-dll-use\LoadTimeDll\x64\Release\LoadTimeDll.exe
+  E:\GeniusWork\VS\vs2019-load-runtime-dll-use\Myputs\x64\Release\Myputs.dll
+  1 File(s) copied

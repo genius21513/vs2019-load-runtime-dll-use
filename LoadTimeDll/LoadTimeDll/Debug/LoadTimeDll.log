@@ -1,0 +1,3 @@
+﻿  LoadTimeDll.cpp
+LoadTimeDll.obj : error LNK2019: unresolved external symbol _myPuts referenced in function _main
+E:\GeniusWork\VS\vs2019-load-runtime-dll-use\LoadTimeDll\Debug\LoadTimeDll.exe : fatal error LNK1120: 1 unresolved externals
